@@ -1,4 +1,4 @@
-print "<---Generatot Loto Stevil--->"
+print "<---Generator Loto Stevil--->"
 
 list_stevilke = []
 
